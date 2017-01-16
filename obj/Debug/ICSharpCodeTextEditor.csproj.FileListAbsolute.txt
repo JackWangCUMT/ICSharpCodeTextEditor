@@ -1,0 +1,13 @@
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\bin\Debug\ICSharpCodeTextEditor.exe.config
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\bin\Debug\ICSharpCodeTextEditor.exe
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\bin\Debug\ICSharpCodeTextEditor.pdb
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\bin\Debug\ICSharpCode.NRefactory.dll
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\bin\Debug\ICSharpCode.SharpDevelop.Dom.dll
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\bin\Debug\ICSharpCode.TextEditor.dll
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\bin\Debug\Mono.Cecil.dll
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\obj\Debug\ICSharpCodeTextEditor.Form1.resources
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\obj\Debug\ICSharpCodeTextEditor.Properties.Resources.resources
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\obj\Debug\ICSharpCodeTextEditor.csproj.GenerateResource.Cache
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\obj\Debug\ICSharpCodeTextEditor.exe
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\obj\Debug\ICSharpCodeTextEditor.pdb
+c:\users\wangming.microstarsoft\documents\visual studio 2015\Projects\ICSharpCodeTextEditor\ICSharpCodeTextEditor\bin\Debug\HighLighting\JackCSharp-Mode.xshd
